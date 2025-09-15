@@ -34,3 +34,16 @@
     color:rgb(212, 212, 212);
 }
 
+.draggingWindow-body {
+    width: 100%;
+    min-height: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.draggingWindow-body-text {
+    font-size: 16px;
+    font-family: "Montserrat", sans-serif;
+    color:rgb(212, 212, 212);
+}

@@ -8,6 +8,10 @@ export default function dragginWindow () {
                 <div className='header-draggingWindow'>
                     <p className='header-draggingWindow-name'>Название окна</p>
                 </div>
+                <div className='draggingWindow-body'>
+                    <p className='draggingWindow-body-text'>Какой то текст</p>
+                </div>
+                
             </div>
         </>
     )
