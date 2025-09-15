@@ -28,9 +28,9 @@
     border-radius: 15px 15px 0 0;
 }
 
-.header-draggingWindow {
+.header-draggingWindow-name {
     font-size: 18px;
     font-family: "Montserrat", sans-serif;
-    color:rgb(212, 212, 212);
+    color:rgb(112, 112, 112);
 }
 
